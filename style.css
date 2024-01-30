@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    
+}
+li{
+    list-style-type: none;
+    font-family: sans-serif;
+}
+.group{
+    font-weight: 900;
+}
+.coutry{
+    font-weight: 100;
+}
+.group>p>img{
+    height: 14px;
+    width: 14px;
+    margin-right: 3px;
+}
+.coutry>img{
+    height: 14px;
+    width: 21px;
+    margin-right: 3px;
+}
